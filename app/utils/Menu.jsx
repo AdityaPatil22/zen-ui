@@ -26,6 +26,36 @@ const Menu = () => {
       link: 'accordion',
       description:
         'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias modi nihil deserunt sintß',
+    },
+    {
+      id: 4,
+      title: 'Badge',
+      link: 'badge',
+    },
+    {
+      id: 5,
+      title: 'Tooltip',
+      link: 'tooltip',
+    },
+    {
+      id: 6,
+      title: 'Tabs',
+      link: 'tabs',
+    },
+    {
+      id: 7,
+      title: 'Modal',
+      link: 'modal',
+    },
+    {
+      id: 8,
+      title: 'Input',
+      link: 'input',
+    },
+    {
+      id: 9,
+      title: 'Alert',
+      link: 'alert',
     }
   ];
   return (
